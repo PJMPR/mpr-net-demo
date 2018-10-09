@@ -6,5 +6,6 @@ namespace GitDemo
 {
     class Aurbanow
     {
+        int b;
     }
 }
